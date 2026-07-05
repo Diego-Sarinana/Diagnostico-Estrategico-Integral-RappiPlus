@@ -28,16 +28,21 @@ Diego-Sarinana/Diagnostico-Estrategico-Integral-RappiPlus - Para éste análisis
 7. Comunicación de resultados.
 
 
-## ▶ Cómo abrir el archivo en Google Sheets/Excel
+## ▶ Cómo abrir el notebook en Google Colab
 
-1. Descarga el archivo dando clic al botón de 'Download raw file' tras haber abierto la sección del proyecto (Diego-Sarinana/Resumen-Ejecutivo-Ventas-Walmart)
-2. En la herramienta de tu elección (Excel/Sheets) abra el archivo
+Haz clic en el siguiente botón:
 
-O: Abre el siguiente enlace;
-https://docs.google.com/spreadsheets/d/1te4De0QvxfNt20P3EwFDVfv6Tlh4OsLuODCQkebbqD8/edit?usp=sharing
-  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Diego-Sarinana/Diagnostico-Estrategico-Integral-RappiPlus/blob/main/Diagnóstico-RappiPlus.ipynb)
+
+O:
+
+1. Abre el archivo '.ipynb' en GitHub
+2. Haz clic en Open in Colab
+   
 ## 📘 Cómo reproducir el análisis:
-1. Tras abrir el archivo en la herramienta elegida puedes dar clic en las hojas de la barra inferior para revisar las modificaciones y resultados obtenidos
+1. Abre 'Diego-Sarinana/Diagnóstico-RappiPlus.ipynb'
+2. Ejecuta las celdas en orden
+3. El notebook carga automáticamente el dataset desde /data/ o desde un enlace público (según corresponda)
    
 ## 🧠 Objetivo del análisis:
 1. Revelar si el servicio de RappiPlus está generando más ganancias. 
