@@ -16,7 +16,7 @@ Análisis para RappiPlus, un servicio del ecosistema Rappi diseñado para aument
   
 6. experiment_checkout_ui.csv. Incluye la modificación en la UI para evaluar el impacto en la conversión de compra y  llevar a cabo el test estadístico.
 
-📂 Contenido del repositorio
+## 📂 Contenido del repositorio
 
 Diego-Sarinana/Diagnostico-Estrategico-Integral-RappiPlus - Para éste análisis se llevo a cabo el siguiente proceso: 
 1. Carga de datos y vista rápida.
@@ -28,7 +28,7 @@ Diego-Sarinana/Diagnostico-Estrategico-Integral-RappiPlus - Para éste análisis
 7. Comunicación de resultados.
 
 
-▶ Cómo abrir el archivo en Google Sheets/Excel
+## ▶ Cómo abrir el archivo en Google Sheets/Excel
 
 1. Descarga el archivo dando clic al botón de 'Download raw file' tras haber abierto la sección del proyecto (Diego-Sarinana/Resumen-Ejecutivo-Ventas-Walmart)
 2. En la herramienta de tu elección (Excel/Sheets) abra el archivo
@@ -36,14 +36,14 @@ Diego-Sarinana/Diagnostico-Estrategico-Integral-RappiPlus - Para éste análisis
 O: Abre el siguiente enlace;
 https://docs.google.com/spreadsheets/d/1te4De0QvxfNt20P3EwFDVfv6Tlh4OsLuODCQkebbqD8/edit?usp=sharing
   
-📘 Cómo reproducir el análisis:
+## 📘 Cómo reproducir el análisis:
 1. Tras abrir el archivo en la herramienta elegida puedes dar clic en las hojas de la barra inferior para revisar las modificaciones y resultados obtenidos
    
-🧠 Objetivo del análisis:
+## 🧠 Objetivo del análisis:
 1. Revelar si el servicio de RappiPlus está generando más ganancias. 
 2. Identificar si los usuarios compran más
 3. Encontrar oportunidades perdidas en el proceso de compra
 
-🗣️Recomendación de negocio:
+## 🗣️Recomendación de negocio:
 - Revisar los posibles outliers en los que ciertos clientes compraron 10,000 y 20,000 unidades ya que se están reflejando pérdidas probables de hasta 2,072,000.00 y ganancias probables de hasta 5,122,200.00 lo que pudiera significar una gran alerta o un gran éxito en el negocio.
 - Enfocar la inversión a las "Laptop-Gaming-16GB" ya que es el producto con la mayor cantidad de ventas y de mayor margen de ganancia.
