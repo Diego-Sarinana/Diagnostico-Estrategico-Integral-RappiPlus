@@ -1,7 +1,7 @@
 # Diagnóstico Estratégico Integral para RappiPlus
 Análisis para RappiPlus, un servicio del ecosistema Rappi diseñado para aumentar la frecuencia de compra y el valor generado por usuario.
 
-##Datos: 
+## Datos: 
 - Tres datasets con datos crudos trabajados con Python, dos tablas para análisis de la retención de cohortes trabajadas con SQL y un dataset para poder hacer un test estadístico con Python;
 
 1. rappiplus_orders_raw.csv. Incluye los datos de las compras de los usuarios en 12 columnas que incluyen: id_pedido, id_usuario, fecha_hora_pedido, pais, dispositivo, fuente_referencia, nombre_producto, categoria_producto, cantidad, precio_unitario, monto_descuento y monto_total.
